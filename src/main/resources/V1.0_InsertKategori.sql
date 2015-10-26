@@ -1,0 +1,1 @@
+INSERT INTO kategori(id_kategori, kategori_name) VALUES (1,'makanan'), (2,'minuman'), (3,'alat rumah tanggal'), (4,'alat mandi');

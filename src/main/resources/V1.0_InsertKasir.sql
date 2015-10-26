@@ -1,0 +1,2 @@
+INSERT INTO kasir (kasir_id, name, password) VALUES (1,'Lestari A','1a'), (2,'Endah S','1b'), (3,'Bela N A','1c'), (4,'Hamidah N S','1d'),
+  (5,'Fifit S R','1e'), (6,'Gladis A A','1f'), (7,'Andi S','1g'), (8,'Dendi S','1h'), (9,'Samsul A','1i'), (10,'Ismed S','1j');
